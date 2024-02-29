@@ -1,4 +1,4 @@
-# [Project 1: A Data-Driven Analysis of Rental Market Trends and Pricing Strategies(https://public.tableau.com/shared/8CR489SQ7?:display_count=n&:origin=viz_share_link)
+# [Project 1: A Data-Driven Analysis of Rental Market Trends and Pricing Strategies](https://public.tableau.com/shared/8CR489SQ7?:display_count=n&:origin=viz_share_link)
 
 * Average Price Per Bedroom: Calculated the average price per bedroom to understand the pricing trend based on the number of bedrooms in a listing.
 * Price Vs Zipcode: Analyzed the relationship between price and zipcode to identify how pricing varies across different areas.
