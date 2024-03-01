@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # Download NLTK resources (if not already downloaded)
 nltk.download('vader_lexicon')
 
-# Load the Excel file
+# Load the Excel file (uploaded file as name of Airbnb comments) 
 file_path = "/content/Airbnb data(rev).xlsx"
 df = pd.read_excel(file_path)
 
